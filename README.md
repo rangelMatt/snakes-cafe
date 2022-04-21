@@ -4,6 +4,8 @@
 
 ## Links and Resources
 
+review_snakes_cafe peer contribution by Chris Yamas
+
 <!-- PORT - Port Number
 DATABASE_URL - URL to the running Postgres instance/db
 How to initialize/run your application (where applicable)
